@@ -7,11 +7,11 @@ class Solution
 public:
     int stringToNumber(string s)
     {
-        int num = 0;
+        int num = 0; 
         for (char c : s)
         {
             num = num * 10 + (c - '0');
-        }
+        } 
         return num;
     }
 

@@ -3,6 +3,7 @@
 using namespace std;
 
 class Solution {
+    
     public:
         int numTilePossibilities(string tiles) {
             vector<int> frequency(26, 0);
@@ -24,7 +25,7 @@ class Solution {
             }
             return count;
         }
-    };
+};
 
 int main(){
     Solution solution;

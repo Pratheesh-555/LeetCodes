@@ -5,7 +5,7 @@ This repository contains my solutions to various LeetCode problems, covering Dat
 ✔️ Arrays, Strings, Linked Lists, Stacks, Queues
 ✔️ Trees, Graphs, Dynamic Programming
 ✔️ Sorting, Searching, Recursion, Backtracking
-✔️ Bit Manipulation, Greedy Algorithms, and more
+✔️ Bit Manipulation and more
 
 🔹 Why This Repo?
 📌 Track my progress in DSA

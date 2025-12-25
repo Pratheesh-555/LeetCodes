@@ -9,7 +9,7 @@ public:
         int i = 0;
         while(sum > 0){
             sum -= capacity[i++];
-            res++;   
+            res++;      
         }
         return res;
     }
